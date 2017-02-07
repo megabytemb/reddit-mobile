@@ -1,3 +1,5 @@
+## Lol Wat?
+
 ### Quick start
 
 1. Install npm dependencies:
